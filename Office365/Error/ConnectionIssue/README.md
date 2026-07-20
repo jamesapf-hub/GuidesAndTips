@@ -40,7 +40,8 @@ A "Reset Internet Explorer Settings" dialog box will immediately appear on the s
 ### 4. Finalize and Restart
 1. The window will process the reset. Wait for all items to display a green checkmark.
 2. Click **Close**.
-3. **Restart the computer.** (While sometimes just restarting the affected application like Outlook works, a full system reboot is highly recommended to flush the DNS and apply the new internet state globally).
+3. **Close and reopen the Microsoft program you are struggling with** (e.g. Outlook, Teams, Word).
+4. **Note:** In some cases, if the issue persists, a full system reboot is required to completely flush the DNS and apply the new internet state globally.
 
 ## Troubleshooting
 > [!WARNING]
