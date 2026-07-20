@@ -11,6 +11,8 @@ This reset is specifically known to resolve Microsoft 365 modern authentication 
 * **"Looks like we can't connect to one of our services right now."**
 * **Error Codes:** `0xCAA80000`, `CAA80000`, `CAA800000`
 
+![Example of the 0xCAA80000 Connection Error](error-example.png)
+
 ## Prerequisites
 * **Access/Permissions:** Standard User (Local Admin is helpful if system-wide proxy settings are locked, but not strictly required for user-level resets).
 * **Required Tools:** Windows Run Dialog (`Win + R`)
