@@ -1,0 +1,231 @@
+{
+  "repository": "GuidesAndTips",
+  "generatedAt": "2026-10-14T21:04:24.463Z",
+  "folders": {
+    "adobe/acrobataiassistant": {
+      "name": "AcrobatAIAssistant",
+      "title": "Disable Adobe Acrobat AI Assistant (Enterprise Policy Lockdown)",
+      "path": "Adobe/AcrobatAIAssistant",
+      "desc": "A standardized registry-based policy override to completely disable and remove the \"Ask AI\" (Generative AI Assistant) buttons, floating sidebars, and contextual prompt menus from Adobe Acrobat Reader and Adobe Acrobat Professional.",
+      "lastUpdated": "2026-07-08T08:57:09+01:00",
+      "childCount": 0,
+      "isGuideOrPackage": true
+    },
+    "acrobataiassistant": {
+      "name": "AcrobatAIAssistant",
+      "title": "Disable Adobe Acrobat AI Assistant (Enterprise Policy Lockdown)",
+      "path": "Adobe/AcrobatAIAssistant",
+      "desc": "A standardized registry-based policy override to completely disable and remove the \"Ask AI\" (Generative AI Assistant) buttons, floating sidebars, and contextual prompt menus from Adobe Acrobat Reader and Adobe Acrobat Professional.",
+      "lastUpdated": "2026-07-08T08:57:09+01:00",
+      "childCount": 0,
+      "isGuideOrPackage": true
+    },
+    "adobe": {
+      "name": "Adobe",
+      "title": "Adobe",
+      "path": "Adobe",
+      "desc": "Documentation and troubleshooting guides for Adobe: Disable Adobe Acrobat AI Assistant (Enterprise Policy Lockdown).",
+      "lastUpdated": "2026-07-08T08:57:09+01:00",
+      "childCount": 1,
+      "isGuideOrPackage": false
+    },
+    "edge/casting": {
+      "name": "Casting",
+      "title": "Edge Media Router Internals (`edge://media-router-internals/`)",
+      "path": "Edge/Casting",
+      "desc": "The internal diagnostic page edge://media-router-internals/ provides a raw JSON data dump containing real-time configurations, discovery statistics, and troubleshooting logs for Microsoft Edge's Media Router component.",
+      "lastUpdated": "2026-07-07T13:11:46+01:00",
+      "childCount": 0,
+      "isGuideOrPackage": true
+    },
+    "casting": {
+      "name": "Casting",
+      "title": "Edge Media Router Internals (`edge://media-router-internals/`)",
+      "path": "Edge/Casting",
+      "desc": "The internal diagnostic page edge://media-router-internals/ provides a raw JSON data dump containing real-time configurations, discovery statistics, and troubleshooting logs for Microsoft Edge's Media Router component.",
+      "lastUpdated": "2026-07-07T13:11:46+01:00",
+      "childCount": 0,
+      "isGuideOrPackage": true
+    },
+    "edge": {
+      "name": "Edge",
+      "title": "Edge",
+      "path": "Edge",
+      "desc": "Documentation and troubleshooting guides for Edge: Edge Media Router Internals (`edge://media-router-internals/`).",
+      "lastUpdated": "2026-07-07T13:11:46+01:00",
+      "childCount": 1,
+      "isGuideOrPackage": false
+    },
+    "general": {
+      "name": "General",
+      "title": "How to Use This Portal",
+      "path": "General",
+      "desc": "Welcome to the central repository for all operating guides, tips, and standard operating procedures (SOPs). This repository is configured to help you quickly search, read, and print guides for standard system tasks and IT workflows.",
+      "lastUpdated": "2026-07-06T21:54:16+01:00",
+      "childCount": 0,
+      "isGuideOrPackage": true
+    },
+    "intune/kiosk": {
+      "name": "Kiosk",
+      "title": "Architecture Design: Intune-Managed Mock Thin Client",
+      "path": "Intune/Kiosk",
+      "desc": "This document outlines the design, implementation details, and workflow for the Mock Thin Client solution. The goal of this solution is to repurpose standard Windows devices into secure, single-purpose thin clients managed via Microsoft Intune, providing a streamlined user experience without the complexity of traditional thin-client operating systems or write filters.",
+      "lastUpdated": "2026-07-06T21:59:18+01:00",
+      "childCount": 0,
+      "isGuideOrPackage": true
+    },
+    "kiosk": {
+      "name": "Kiosk",
+      "title": "Architecture Design: Intune-Managed Mock Thin Client",
+      "path": "Intune/Kiosk",
+      "desc": "This document outlines the design, implementation details, and workflow for the Mock Thin Client solution. The goal of this solution is to repurpose standard Windows devices into secure, single-purpose thin clients managed via Microsoft Intune, providing a streamlined user experience without the complexity of traditional thin-client operating systems or write filters.",
+      "lastUpdated": "2026-07-06T21:59:18+01:00",
+      "childCount": 0,
+      "isGuideOrPackage": true
+    },
+    "intune": {
+      "name": "Intune",
+      "title": "Intune",
+      "path": "Intune",
+      "desc": "Documentation and troubleshooting guides for Intune: Architecture Design: Intune-Managed Mock Thin Client.",
+      "lastUpdated": "2026-07-06T21:59:18+01:00",
+      "childCount": 1,
+      "isGuideOrPackage": false
+    },
+    "office365/error/connectionissue_caa800000": {
+      "name": "ConnectionIssue_CAA800000",
+      "title": "Hard Reset Windows Internet Settings",
+      "path": "Office365/Error/ConnectionIssue_CAA800000",
+      "desc": "Even though Internet Explorer is officially retired, Windows still uses the core Internet Properties engine (inetcpl.cpl) to manage system-wide proxy configurations, SSL states, and default internet behaviors.",
+      "lastUpdated": "2026-07-20T11:21:35+01:00",
+      "childCount": 0,
+      "isGuideOrPackage": true
+    },
+    "connectionissue_caa800000": {
+      "name": "ConnectionIssue_CAA800000",
+      "title": "Hard Reset Windows Internet Settings",
+      "path": "Office365/Error/ConnectionIssue_CAA800000",
+      "desc": "Even though Internet Explorer is officially retired, Windows still uses the core Internet Properties engine (inetcpl.cpl) to manage system-wide proxy configurations, SSL states, and default internet behaviors.",
+      "lastUpdated": "2026-07-20T11:21:35+01:00",
+      "childCount": 0,
+      "isGuideOrPackage": true
+    },
+    "office365/error/outlooknew_clearlocalstate": {
+      "name": "OutlookNew_ClearLocalState",
+      "title": "Fix New Outlook for Windows Stuck Opening (olk.exe --clearLocalState)",
+      "path": "Office365/Error/OutlookNew_ClearLocalState",
+      "desc": "Fixes New Outlook for Windows stuck on launch or spinning on startup by clearing corrupted local cache using olk.exe --clearLocalState.",
+      "lastUpdated": "2026-07-29T16:41:31+01:00",
+      "childCount": 0,
+      "isGuideOrPackage": true
+    },
+    "outlooknew_clearlocalstate": {
+      "name": "OutlookNew_ClearLocalState",
+      "title": "Fix New Outlook for Windows Stuck Opening (olk.exe --clearLocalState)",
+      "path": "Office365/Error/OutlookNew_ClearLocalState",
+      "desc": "Fixes New Outlook for Windows stuck on launch or spinning on startup by clearing corrupted local cache using olk.exe --clearLocalState.",
+      "lastUpdated": "2026-07-29T16:41:31+01:00",
+      "childCount": 0,
+      "isGuideOrPackage": true
+    },
+    "office365/error": {
+      "name": "Error",
+      "title": "Error",
+      "path": "Office365/Error",
+      "desc": "Documentation and troubleshooting guides for Error: Hard Reset Windows Internet Settings, Fix New Outlook for Windows Stuck Opening (olk.exe --clearLocalState).",
+      "lastUpdated": "2026-07-29T16:41:31+01:00",
+      "childCount": 2,
+      "isGuideOrPackage": false
+    },
+    "error": {
+      "name": "Error",
+      "title": "Error",
+      "path": "Office365/Error",
+      "desc": "Documentation and troubleshooting guides for Error: Hard Reset Windows Internet Settings, Fix New Outlook for Windows Stuck Opening (olk.exe --clearLocalState).",
+      "lastUpdated": "2026-07-29T16:41:31+01:00",
+      "childCount": 2,
+      "isGuideOrPackage": false
+    },
+    "office365": {
+      "name": "Office365",
+      "title": "Office365",
+      "path": "Office365",
+      "desc": "Documentation and troubleshooting guides for Office365: Hard Reset Windows Internet Settings, Fix New Outlook for Windows Stuck Opening (olk.exe --clearLocalState).",
+      "lastUpdated": "2026-07-29T16:41:31+01:00",
+      "childCount": 1,
+      "isGuideOrPackage": false
+    },
+    "teamsrooms/windows/displayissue": {
+      "name": "DisplayIssue",
+      "title": "Fix Teams Rooms Display Stuck on Single Screen or Zoomed Resolution (SMBIOS AllInOne Mode)",
+      "path": "TeamsRooms/Windows/DisplayIssue",
+      "desc": "Microsoft Teams Rooms (MTR) for Windows deployed on mini-PC compute units (such as Intel or ASUS NUC 13 Pro paired with a touch console like Logitech Tap and external room displays) may encounter a display malfunction where Teams Room only outputs to a single screen, completely ignores secondary displays, or renders an oversized, heavily zoomed-in interface.",
+      "lastUpdated": "2026-08-24T09:43:01+01:00",
+      "childCount": 0,
+      "isGuideOrPackage": true
+    },
+    "displayissue": {
+      "name": "DisplayIssue",
+      "title": "Fix Teams Rooms Display Stuck on Single Screen or Zoomed Resolution (SMBIOS AllInOne Mode)",
+      "path": "TeamsRooms/Windows/DisplayIssue",
+      "desc": "Microsoft Teams Rooms (MTR) for Windows deployed on mini-PC compute units (such as Intel or ASUS NUC 13 Pro paired with a touch console like Logitech Tap and external room displays) may encounter a display malfunction where Teams Room only outputs to a single screen, completely ignores secondary displays, or renders an oversized, heavily zoomed-in interface.",
+      "lastUpdated": "2026-08-24T09:43:01+01:00",
+      "childCount": 0,
+      "isGuideOrPackage": true
+    },
+    "teamsrooms/windows": {
+      "name": "Windows",
+      "title": "Windows",
+      "path": "TeamsRooms/Windows",
+      "desc": "Documentation and troubleshooting guides for Windows: Fix Teams Rooms Display Stuck on Single Screen or Zoomed Resolution (SMBIOS AllInOne Mode).",
+      "lastUpdated": "2026-08-24T09:43:01+01:00",
+      "childCount": 1,
+      "isGuideOrPackage": false
+    },
+    "windows": {
+      "name": "Windows",
+      "title": "Windows",
+      "path": "Windows",
+      "desc": "Documentation and troubleshooting guides for Windows: Fix Missing Notifications Settings Bar in Windows 11.",
+      "lastUpdated": "2026-07-23T16:09:27+01:00",
+      "childCount": 1,
+      "isGuideOrPackage": false
+    },
+    "teamsrooms": {
+      "name": "TeamsRooms",
+      "title": "TeamsRooms",
+      "path": "TeamsRooms",
+      "desc": "Documentation and troubleshooting guides for TeamsRooms: Fix Teams Rooms Display Stuck on Single Screen or Zoomed Resolution (SMBIOS AllInOne Mode).",
+      "lastUpdated": "2026-08-24T09:43:01+01:00",
+      "childCount": 1,
+      "isGuideOrPackage": false
+    },
+    "windows/error/missing-notifications-bar": {
+      "name": "Missing-Notifications-Bar",
+      "title": "Fix Missing Notifications Settings Bar in Windows 11",
+      "path": "Windows/Error/Missing-Notifications-Bar",
+      "desc": "In Windows 11, IT administrators or users may encounter an issue where the System > Notifications section completely disappears from the Settings app. The options menu jumps directly from *Focus* to *Power & battery*, leaving users unable to configure app notification toasts, quiet hours, or notification banners.",
+      "lastUpdated": "2026-07-23T16:09:27+01:00",
+      "childCount": 0,
+      "isGuideOrPackage": true
+    },
+    "missing-notifications-bar": {
+      "name": "Missing-Notifications-Bar",
+      "title": "Fix Missing Notifications Settings Bar in Windows 11",
+      "path": "Windows/Error/Missing-Notifications-Bar",
+      "desc": "In Windows 11, IT administrators or users may encounter an issue where the System > Notifications section completely disappears from the Settings app. The options menu jumps directly from *Focus* to *Power & battery*, leaving users unable to configure app notification toasts, quiet hours, or notification banners.",
+      "lastUpdated": "2026-07-23T16:09:27+01:00",
+      "childCount": 0,
+      "isGuideOrPackage": true
+    },
+    "windows/error": {
+      "name": "Error",
+      "title": "Error",
+      "path": "Windows/Error",
+      "desc": "Documentation and troubleshooting guides for Error: Fix Missing Notifications Settings Bar in Windows 11.",
+      "lastUpdated": "2026-07-23T16:09:27+01:00",
+      "childCount": 1,
+      "isGuideOrPackage": false
+    }
+  }
+}
